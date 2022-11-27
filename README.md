@@ -11,7 +11,7 @@
 🌱 &nbsp;I'm on track for learning more about Data Science and Blockchain.\
 ✍️ &nbsp;In my free time, I pursue photography and trading cryptocurrencies as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me if you are looking to collaborate on anything.\
-✉️ &nbsp;You can shoot me an email at hello@naderbennour.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at hello@nader.fyi! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [CV](https://nader.fyi) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/naderbennour/naderbennour/master/helpers/Night-Coding.gif" align="right"/>
@@ -51,5 +51,5 @@
 <p align="center">
 <a href="https://nader.fyi"><img src="https://img.shields.io/badge/-nader.fyi-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/naderbennour"><img src="https://img.shields.io/badge/-Nader%20Bennour-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:hello@naderbennour.com"><img src="https://img.shields.io/badge/-hello@naderbennour.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:hello@nader.fyi"><img src="https://img.shields.io/badge/-hello@nader.fyi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
