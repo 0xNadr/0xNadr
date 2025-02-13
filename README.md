@@ -40,9 +40,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/naderfyi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naderfyi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naderfyi&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/0xNadr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0xNadr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0xNadr&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -50,6 +50,6 @@
 
 <p align="center">
 <a href="https://nader.info"><img src="https://img.shields.io/badge/-nader.info-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/naderfyi"><img src="https://img.shields.io/badge/-Nader%20Bennour-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/0xNadr"><img src="https://img.shields.io/badge/-Nader%20Bennour-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hi@nader.info"><img src="https://img.shields.io/badge/-hi@nader.info-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
