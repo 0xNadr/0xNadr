@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🚀 &nbsp;AI & Cloud Engineer with 4+ years building data infrastructure, AI systems, and full-stack applications.\
-🏗️ &nbsp;**CTO of AI-RE** – built an AI-driven real-estate SaaS from prototype to production.\
+🏗️ &nbsp;**Co-Founder / Former CTO of AI-RE** – built an AI-driven real-estate SaaS from prototype to production.\
 🎓 &nbsp;B.Sc. Computer Science from **Technical University of Munich** (TUM).\
 🔗 &nbsp;Experienced in blockchain, having built DeFi security tools, digital product passports, and L2 data infrastructure.\
 🌱 &nbsp;Currently diving deeper into MLOps, distributed systems, and scalable AI architectures.\
