@@ -62,6 +62,18 @@ I build **production-grade LLM systems, RAG pipelines, and intelligent document 
 
 ## 🎯 &nbsp;Featured Projects
 
+<div align="center">
+
+<a href="https://ai-re.de">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ai-re-logo.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/ai-re-logo-dark.png" />
+    <img alt="AI-RE" width="300" src="assets/ai-re-logo-dark.png" />
+  </picture>
+</a>
+
+</div>
+
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🏠 **AI-RE** | RAG-based document Q&A for real estate — 90% extraction accuracy | Python, LangChain, AWS |
