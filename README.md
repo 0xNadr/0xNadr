@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Senior+AI+%26+LLM+Engineer;RAG+Systems+Builder;Building+AI+That+Ships+to+Production+%F0%9F%9A%80)](https://nader.info)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Senior+AI+%26+LLM+Engineer;RAG+Systems+Builder;Building+AI+That+Ships+to+Production+%F0%9F%9A%80)](https://nader.info)
 
 <br>
 
