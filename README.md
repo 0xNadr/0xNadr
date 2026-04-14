@@ -108,32 +108,6 @@ I build **production-grade LLM systems, RAG pipelines, and intelligent document 
 
 </div>
 
-> ⚠️ **Setup required:** To enable the snake animation, add the GitHub Action workflow below to `.github/workflows/snake.yml` in your profile repo:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 */12 * * *"
->   workflow_dispatch:
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: 0xNadr
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3.1.0
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
 ---
 
 <div align="center">
