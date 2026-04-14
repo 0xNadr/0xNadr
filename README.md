@@ -60,15 +60,7 @@ I build **production-grade LLM systems, RAG pipelines, and intelligent document 
 
 ---
 
----
-
 ## 🎯 &nbsp;Featured Projects
-
-<div align="center">
-
-[![AI-RE](https://github-readme-stats.vercel.app/api/pin/?username=0xNadr&repo=0xNadr&theme=algolia&hide_border=true)](https://github.com/0xNadr)
-
-</div>
 
 | Project | Description | Tech |
 |---------|-------------|------|
