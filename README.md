@@ -60,23 +60,6 @@ I build **production-grade LLM systems, RAG pipelines, and intelligent document 
 
 ---
 
-## 💼 &nbsp;Experience Highlights
-
-| Role | Company | Focus |
-|------|---------|-------|
-| **Co-Founder & CTO** | AI-RE UG | AI-powered real-estate SaaS, RAG pipelines, AWS infrastructure |
-| **Cloud & Data Engineer** | Orbal GmbH | L2 blockchain data infrastructure, Airflow DAGs, 30+ chains |
-| **Blockchain Developer** | Deloitte | Digital Product Passport PoC, smart contracts, EU traceability |
-| **Data Engineer** | Blockbrain GmbH | LLM assistants, smart contract security, AI fraud detection |
-
-<div align="center">
-  <br>
-  <strong>Trusted by</strong>
-  <br><br>
-  <code>Deloitte</code> · <code>UnternehmerTUM</code> · <code>NFON AG</code> · <code>Blockbrain</code> · <code>growthepie</code> · <code>D2Tech</code>
-  <br><br>
-</div>
-
 ---
 
 ## 🎯 &nbsp;Featured Projects
