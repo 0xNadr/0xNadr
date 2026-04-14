@@ -1,98 +1,170 @@
-![Nader Bennour Banner](https://raw.githubusercontent.com/naderbennour/naderbennour/master/helpers/Nader%20Bennour%20Banner.png)
+<div align="center">
 
-<img alt="Wave" src="./helpers/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Nader</h2>
+<!-- ANIMATED TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Senior+AI+%26+LLM+Engineer;RAG+Systems+Builder;Building+AI+That+Ships+to+Production+%F0%9F%9A%80)](https://nader.info)
 
-### 👨🏻‍💻 &nbsp;About Me
+<br>
 
-🚀 &nbsp;AI & Cloud Engineer with 4+ years building data infrastructure, AI systems, and full-stack applications.\
-🏗️ &nbsp;**Co-Founder / Former CTO of AI-RE** – built an AI-driven real-estate SaaS from prototype to production.\
-🎓 &nbsp;B.Sc. Computer Science from **Technical University of Munich** (TUM).\
-🔗 &nbsp;Experienced in blockchain, having built DeFi security tools, digital product passports, and L2 data infrastructure.\
-🌱 &nbsp;Currently diving deeper into MLOps, distributed systems, and scalable AI architectures.\
-💬 &nbsp;Open to collaborating on AI/ML, cloud infrastructure, or blockchain projects.\
-✉️ &nbsp;Reach me at **hi@nader.info** – I'll respond as soon as I can!\
-📄 &nbsp;Check out my [portfolio](https://nader.info) for more details.
+<!-- SOCIAL BADGES -->
+[![Portfolio](https://img.shields.io/badge/nader.info-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nader.info)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/0xNadr)
+[![Email](https://img.shields.io/badge/hi@nader.info-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@nader.info)
+[![Visitor Count](https://komarev.com/ghpvc/?username=0xNadr&style=for-the-badge&color=4FC3F7&label=PROFILE+VIEWS)](https://github.com/0xNadr)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/naderbennour/naderbennour/master/helpers/Night-Coding.gif" align="right"/>
+</div>
 
-### 🛠 &nbsp;Tech Stack
+---
 
-**Languages**\
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=white)&nbsp;
-![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
+## 🧠 &nbsp;About Me
 
-**AI/ML**\
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
-![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)&nbsp;
-![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=chainlink)&nbsp;
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikitlearn)&nbsp;
+I build **production-grade LLM systems, RAG pipelines, and intelligent document solutions** that turn unstructured data into business value. From architecting RAG pipelines that process thousands of documents to deploying LLM-powered products serving real users — I bridge the gap between AI research and reliable, scalable software.
 
-**Cloud & DevOps**\
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices)&nbsp;
-![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=googlecloud)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
-![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=githubactions)&nbsp;
+- 🏗️ &nbsp;**Co-Founded & built AI-RE** — an AI-driven real-estate SaaS from scratch to production
+- 🎓 &nbsp;**B.Sc. Computer Science** from Technical University of Munich (TUM)
+- 🌍 &nbsp;Based in **Munich, Germany** — working with clients worldwide
+- 🔭 &nbsp;Currently building **production RAG systems** for enterprise clients
+- 🌱 &nbsp;Learning: **advanced retrieval strategies, multi-agent architectures**
+- 🗣️ &nbsp;Fluent in **English, French, German & Arabic**
+- ✉️ &nbsp;Reach me at **[hi@nader.info](mailto:hi@nader.info)**
 
-**Frameworks & Databases**\
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+---
 
-**Tools**\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)&nbsp;
-![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
-![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
+## 🛠️ &nbsp;Tech Stack
 
-### 💼 &nbsp;Experience Highlights
+<div align="center">
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=python,go,typescript,javascript,java,solidity,bash)](https://skillicons.dev)
+
+**AI / ML / LLM**
+
+[![AI](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+
+**Cloud & DevOps**
+
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions)](https://skillicons.dev)
+
+**Frameworks & Databases**
+
+[![Frameworks](https://skillicons.dev/icons?i=fastapi,flask,nextjs,react,postgres,redis,mongodb)](https://skillicons.dev)
+
+**Tools & Monitoring**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,prometheus,grafana)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 💼 &nbsp;Experience Highlights
 
 | Role | Company | Focus |
 |------|---------|-------|
-| **Co-Founder & CTO** | AI-RE | AI-powered real-estate SaaS, RAG pipelines, cloud infrastructure |
+| **Co-Founder & CTO** | AI-RE UG | AI-powered real-estate SaaS, RAG pipelines, AWS infrastructure |
 | **Cloud & Data Engineer** | Orbal GmbH | L2 blockchain data infrastructure, Airflow DAGs, 30+ chains |
-| **Blockchain Developer** | Deloitte | Digital Product Passport PoC, smart contracts, supply chain |
-| **Data Engineering Intern** | Blockbrain | LLM assistants, smart contract security, fraud detection |
+| **Blockchain Developer** | Deloitte | Digital Product Passport PoC, smart contracts, EU traceability |
+| **Data Engineer** | Blockbrain GmbH | LLM assistants, smart contract security, AI fraud detection |
 
-### 🎯 &nbsp;Featured Projects
-
-🏠 **AI-RE** – RAG-based document Q&A for real estate with 90% extraction accuracy\
-🩺 **FSH AI Gesundheitsassistent** – Multi-agent health assistant (genetics, blood, nutrition)\
-⛓️ **eth-validator-api** – Go REST API for Ethereum validator telemetry\
-💊 **PharmaGPT** – LLM-based drug interaction advisor using RAG
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/0xNadr">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0xNadr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0xNadr&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://nader.info"><img src="https://img.shields.io/badge/-nader.info-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/0xNadr"><img src="https://img.shields.io/badge/-Nader%20Bennour-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:hi@nader.info"><img src="https://img.shields.io/badge/-hi@nader.info-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/0xNadr"><img src="https://img.shields.io/badge/-0xNadr-181717?style=flat&logo=github&logoColor=white"/></a>
-</p>
+<div align="center">
+  <br>
+  <strong>Trusted by</strong>
+  <br><br>
+  <code>Deloitte</code> · <code>UnternehmerTUM</code> · <code>NFON AG</code> · <code>Blockbrain</code> · <code>growthepie</code> · <code>D2Tech</code>
+  <br><br>
+</div>
 
 ---
-<p align="center">
-  <i>Building AI systems that solve real problems 🚀</i>
-</p>
+
+## 🎯 &nbsp;Featured Projects
+
+<div align="center">
+
+[![AI-RE](https://github-readme-stats.vercel.app/api/pin/?username=0xNadr&repo=0xNadr&theme=algolia&hide_border=true)](https://github.com/0xNadr)
+
+</div>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🏠 **AI-RE** | RAG-based document Q&A for real estate — 90% extraction accuracy | Python, LangChain, AWS |
+| 🏛️ **CityVoice** | German municipal voice assistant for citizen services | Voice AI, NLP, FastAPI |
+| 🏨 **Victoria** | Voice AI concierge for Dormero Hotels | Voice AI, LLM |
+| 🩺 **Vitalyze** | Multi-agent health intelligence platform | Multi-Agent, RAG |
+| 🔗 **MCP DataBridge** | AI agent database protocol for structured data access | MCP, Python |
+| 💬 **InsulBot** | Bilingual AI customer assistant with RAG | LangChain, RAG |
+
+---
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/0xNadr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0xNadr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0xNadr&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</a>
+
+<br><br>
+
+<!-- STREAK STATS -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=0xNadr&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🐍 &nbsp;Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/0xNadr/0xNadr/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/0xNadr/0xNadr/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
+
+> ⚠️ **Setup required:** To enable the snake animation, add the GitHub Action workflow below to `.github/workflows/snake.yml` in your profile repo:
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 */12 * * *"
+>   workflow_dispatch:
+> jobs:
+>   build:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: 0xNadr
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3.1.0
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
+<div align="center">
+
+### 📬 &nbsp;Let's Connect
+
+Whether you need a **production RAG system**, an **LLM-powered product feature**, or **AI infrastructure consulting** — I'm here to help.
+
+[![Portfolio](https://img.shields.io/badge/📄_Portfolio-nader.info-4FC3F7?style=for-the-badge)](https://nader.info)
+[![Book a Call](https://img.shields.io/badge/📅_Book_a_Call-Schedule-00C853?style=for-the-badge)](https://nader.info/#contact)
+[![Email](https://img.shields.io/badge/✉️_Email-hi@nader.info-EA4335?style=for-the-badge)](mailto:hi@nader.info)
+
+<br>
+
+*Building AI systems that solve real problems* 🚀
+
+</div>
