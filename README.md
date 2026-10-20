@@ -17,9 +17,9 @@
 
 ## 🧠 &nbsp;About Me
 
-I lead AI products at **NotarNow**, where we build **LLM agents that take real work off notaries' desks**: reading documents, drafting deeds, filing with the land registry and exchanging structured legal data. I care about AI that holds up in production, so a lot of my time goes into architecture, evals and keeping live agents reliable.
+I lead AI products at **[NotarNow](https://github.com/NotarNowHub)**, where we build **LLM agents that take real work off notaries' desks**: reading documents, drafting deeds, filing with the land registry and exchanging structured legal data. I care about AI that holds up in production, so a lot of my time goes into architecture, evals and keeping live agents reliable.
 
-- 🧭 &nbsp;**Tech Lead, AI Products @ NotarNow**, leading the KI:RSTEN and GWG product lines
+- 🧭 &nbsp;**Tech Lead, AI Products @ [NotarNow](https://github.com/NotarNowHub)**, leading the KI:RSTEN and GWG product lines
 - 🏗️ &nbsp;**Co-founded AI-RE** as CTO and took a real estate document AI platform from prototype to production
 - 🏆 &nbsp;Backed by the **EXIST Gründerstipendium**, **AI Nation** and **TUM Venture Labs Built Environment**
 - 🎓 &nbsp;**B.Sc. Computer Science** from Technical University of Munich (TUM)
@@ -66,7 +66,7 @@ I lead AI products at **NotarNow**, where we build **LLM agents that take real w
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| ⚖️ **NotarNow** | LLM agents that automate notarial workflows, from document analysis to land registry filings | LLM Agents, Playwright, FastAPI, AWS |
+| ⚖️ **[NotarNow](https://github.com/NotarNowHub)** | LLM agents that automate notarial workflows, from document analysis to land registry filings | LLM Agents, Playwright, FastAPI, AWS |
 | 🏠 **AI-RE** | RAG-based document Q&A for real estate with 90% extraction accuracy | Python, LangChain, AWS |
 | 🏛️ **CityVoice** | German municipal voice assistant for citizen services | Voice AI, NLP, FastAPI |
 | 🏨 **Victoria** | Voice AI concierge for Dormero Hotels | Voice AI, LLM |
