@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Senior+AI+%26+LLM+Engineer;RAG+Systems+Builder;Building+AI+That+Ships+to+Production+%F0%9F%9A%80)](https://nader.info)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Tech+Lead%2C+AI+Products+%40+NotarNow;Building+LLM+Agents+for+Legal+Work;AI+That+Ships+to+Production+%F0%9F%9A%80)](https://nader.info)
 
 <br>
 
@@ -17,14 +17,15 @@
 
 ## 🧠 &nbsp;About Me
 
-I build **production-grade LLM systems, RAG pipelines, and intelligent document solutions** that turn unstructured data into business value. From architecting RAG pipelines that process thousands of documents to deploying LLM-powered products serving real users — I bridge the gap between AI research and reliable, scalable software.
+I lead AI products at **NotarNow**, where we build **LLM agents that take real work off notaries' desks**: reading documents, drafting deeds, filing with the land registry and exchanging structured legal data. I care about AI that holds up in production, so a lot of my time goes into architecture, evals and keeping live agents reliable.
 
-- 🏗️ &nbsp;**Co-Founded & built AI-RE** — an AI-driven real-estate SaaS from scratch to production
+- 🧭 &nbsp;**Tech Lead, AI Products @ NotarNow**, leading the KI:RSTEN and GWG product lines
+- 🏗️ &nbsp;**Co-founded AI-RE** as CTO and took a real estate document AI platform from prototype to production
+- 🏆 &nbsp;Backed by the **EXIST Gründerstipendium**, **AI Nation** and **TUM Venture Labs Built Environment**
 - 🎓 &nbsp;**B.Sc. Computer Science** from Technical University of Munich (TUM)
-- 🌍 &nbsp;Based in **Munich, Germany** — working with clients worldwide
-- 🔭 &nbsp;Currently building **production RAG systems** for enterprise clients
-- 🌱 &nbsp;Learning: **advanced retrieval strategies, multi-agent architectures**
-- 🗣️ &nbsp;Fluent in **English, French, German & Arabic**
+- 🌍 &nbsp;Based in **Munich, Germany**
+- 🌱 &nbsp;Currently into: **multi-agent systems, evals for LLM agents, browser automation**
+- 🗣️ &nbsp;I speak **English, French, German & Arabic**
 - ✉️ &nbsp;Reach me at **[hi@nader.info](mailto:hi@nader.info)**
 
 ---
@@ -40,9 +41,10 @@ I build **production-grade LLM systems, RAG pipelines, and intelligent document 
 **AI / ML / LLM**
 
 [![AI](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -60,11 +62,12 @@ I build **production-grade LLM systems, RAG pipelines, and intelligent document 
 
 ---
 
-## 🎯 &nbsp;Featured Projects
+## 🎯 &nbsp;Featured Work
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🏠 **AI-RE** | RAG-based document Q&A for real estate — 90% extraction accuracy | Python, LangChain, AWS |
+| ⚖️ **NotarNow** | LLM agents that automate notarial workflows, from document analysis to land registry filings | LLM Agents, Playwright, FastAPI, AWS |
+| 🏠 **AI-RE** | RAG-based document Q&A for real estate with 90% extraction accuracy | Python, LangChain, AWS |
 | 🏛️ **CityVoice** | German municipal voice assistant for citizen services | Voice AI, NLP, FastAPI |
 | 🏨 **Victoria** | Voice AI concierge for Dormero Hotels | Voice AI, LLM |
 | 🩺 **Vitalyze** | Multi-agent health intelligence platform | Multi-Agent, RAG |
@@ -106,10 +109,10 @@ I build **production-grade LLM systems, RAG pipelines, and intelligent document 
 
 ### 📬 &nbsp;Let's Connect
 
-Whether you need a **production RAG system**, an **LLM-powered product feature**, or **AI infrastructure consulting** — I'm here to help.
+Always happy to talk about **LLM agents**, **legal tech** or **AI in production**. Feel free to reach out.
 
 [![Portfolio](https://img.shields.io/badge/📄_Portfolio-nader.info-4FC3F7?style=for-the-badge)](https://nader.info)
-[![Book a Call](https://img.shields.io/badge/📅_Book_a_Call-Schedule-00C853?style=for-the-badge)](https://nader.info/#contact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0xNadr-0A66C2?style=for-the-badge)](https://linkedin.com/in/0xNadr)
 [![Email](https://img.shields.io/badge/✉️_Email-hi@nader.info-EA4335?style=for-the-badge)](mailto:hi@nader.info)
 
 <br>
